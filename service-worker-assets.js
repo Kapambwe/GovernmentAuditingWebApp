@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "9Hk3MVxU",
+  "version": "UMdaBoNK",
   "assets": [
     {
       "hash": "sha256-D+Wh5iUZm5rtGCbVIsdXgdtjJ8rPSv4WWBP7LnYyFps=",
@@ -190,28 +190,28 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-mJ/tXbv4AGl+Bvn2MSfpE7020H/FgLnZvlxQcwOow7Q=",
-      "url": "_framework/CompanyApp.Client.AuditingApp.848unttlmk.wasm"
+      "hash": "sha256-7TtqOS5C8edG1yho4nhVfRHygigKk/hxGHao8KzHScM=",
+      "url": "_framework/CompanyApp.Client.AuditingApp.95j8t34fzi.wasm"
     },
     {
-      "hash": "sha256-8Ym2YFNEMyIlSGt7DjH4BYOBGEd7d84iuIIJQY3gEco=",
-      "url": "_framework/CompanyApp.Component.Auditing.thzdd65xeg.wasm"
+      "hash": "sha256-SSWwAl/9xVQKB6XpaCq88E5U70aevORN5dDMVByeQFE=",
+      "url": "_framework/CompanyApp.Component.Auditing.xmhkbtdlon.wasm"
     },
     {
-      "hash": "sha256-VCDl3kRX9EcYjXekbA5qRplqXHGtQneAES3oHtkZNiw=",
-      "url": "_framework/CompanyApp.Components.Auditing.DecisionEngine.w1xs2upyxg.wasm"
+      "hash": "sha256-ZhMtBQZhI7Oz7R4wQ5b1xwnmzt8mtUeLAQYpoxVY7wc=",
+      "url": "_framework/CompanyApp.Components.Auditing.DecisionEngine.i2oren3a8g.wasm"
     },
     {
-      "hash": "sha256-9D/A16E2bcFbKN5zq5fk2A34xnrpvCK41fGh7i5mk3Q=",
-      "url": "_framework/CompanyApp.Components.Auditing.Management.w1vjwbfgbm.wasm"
+      "hash": "sha256-ftUVm14NeO2UfI3fUWSg71G0qDXOZOolz0ybUDqp0os=",
+      "url": "_framework/CompanyApp.Components.Auditing.Management.2o2sadxezw.wasm"
     },
     {
-      "hash": "sha256-fwKeGe91HaMwWoxoIJrHeRWTpwmkSU8v2SNXK2FhR+w=",
-      "url": "_framework/CompanyApp.Components.Auditing.Realtime.zzfeie7ctg.wasm"
+      "hash": "sha256-60wpV3xKMPcodO4ZaY6J9wCHgHTfJ+zHDWWn6eiigXw=",
+      "url": "_framework/CompanyApp.Components.Auditing.Realtime.3a8ky9kufb.wasm"
     },
     {
-      "hash": "sha256-VUYDqbhKoMfoHHGJAxnbLTnMGGI5oFtZ26He1me0WFg=",
-      "url": "_framework/CompanyApp.Components.PublicFinanceAbuse.vr4mo0yvc0.wasm"
+      "hash": "sha256-Y5rqXFhCm3dceHJDajLn6SJlNSrI9jHgLO5vXF9GHsw=",
+      "url": "_framework/CompanyApp.Components.PublicFinanceAbuse.7rx6iuikd4.wasm"
     },
     {
       "hash": "sha256-7MB/AdpJ1M5QLPfFuGFjCLGIJyd1QJSLoYMVWiC8/QU=",
@@ -1082,7 +1082,7 @@ self.assetsManifest = {
       "url": "_framework/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-yd5aNh3PA0TaVk2l3L+Ui4FfA3oUmkWNCYbkrv3Of84=",
+      "hash": "sha256-OGM9WHaOt1+v3OyrvEXetsFzQMfwjUnJJxeKH7Uo5Vk=",
       "url": "_framework/dotnet.js"
     },
     {
