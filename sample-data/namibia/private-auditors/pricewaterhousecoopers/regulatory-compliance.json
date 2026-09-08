@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "pricewaterhousecoopers-namibia",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-03-15",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Namibia",
+    "nextPeerReview":  "2026-09-27",
+    "lastPeerReview":  "2023-06-27",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "PricewaterhouseCoopers Namibia",
+    "country":  "Namibia",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "80%",
+    "auditCommitteeEngagements":  20
+}

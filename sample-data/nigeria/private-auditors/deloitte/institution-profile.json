@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Nigeria",
+    "annualRevenue":  50848276,
+    "website":  "https://www.deloitte.com/nigeria",
+    "staffCount":  263,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NGN",
+    "institutionName":  "Deloitte Nigeria",
+    "institutionId":  "deloitte-nigeria-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.nigeria",
+    "headquarters":  "Nigeria Capital",
+    "partners":  10,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "â‚¦",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1993,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-73377"
+}

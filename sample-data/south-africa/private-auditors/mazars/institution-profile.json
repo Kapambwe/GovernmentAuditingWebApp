@@ -1,0 +1,44 @@
+﻿{
+    "country":  "South Africa",
+    "annualRevenue":  10681376,
+    "website":  "https://www.mazars.com/south-africa",
+    "staffCount":  343,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZAR",
+    "institutionName":  "Mazars South Africa",
+    "institutionId":  "mazars-south-africa-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@mazars.south-africa",
+    "headquarters":  "South Africa Capital",
+    "partners":  29,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  4,
+    "parentFirm":  "Mazars",
+    "currencySymbol":  "R",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2008,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-29023"
+}

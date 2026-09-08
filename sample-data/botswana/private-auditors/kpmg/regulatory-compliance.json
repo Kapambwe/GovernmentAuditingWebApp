@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "kpmg-botswana",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-01-04",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Botswana",
+    "nextPeerReview":  "2026-06-13",
+    "lastPeerReview":  "2023-03-11",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "KPMG Botswana",
+    "country":  "Botswana",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "84%",
+    "auditCommitteeEngagements":  10
+}

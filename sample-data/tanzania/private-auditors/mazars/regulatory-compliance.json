@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "mazars-tanzania",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-03-16",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Tanzania",
+    "nextPeerReview":  "2026-08-04",
+    "lastPeerReview":  "2023-11-16",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Mazars Tanzania",
+    "country":  "Tanzania",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "84%",
+    "auditCommitteeEngagements":  21
+}

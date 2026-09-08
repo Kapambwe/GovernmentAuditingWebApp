@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Tanzania",
+    "annualRevenue":  64372599,
+    "website":  "https://www.grant-thornton.com/tanzania",
+    "staffCount":  458,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "TZS",
+    "institutionName":  "Grant Thornton Tanzania",
+    "institutionId":  "grant-thornton-tanzania-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@grant-thornton.tanzania",
+    "headquarters":  "Tanzania Capital",
+    "partners":  4,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "Grant Thornton",
+    "currencySymbol":  "TSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2002,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-49312"
+}

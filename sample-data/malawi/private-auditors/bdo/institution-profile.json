@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Malawi",
+    "annualRevenue":  20127022,
+    "website":  "https://www.bdo.com/malawi",
+    "staffCount":  99,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "MWK",
+    "institutionName":  "BDO Malawi",
+    "institutionId":  "bdo-malawi-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@bdo.malawi",
+    "headquarters":  "Malawi Capital",
+    "partners":  29,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "BDO",
+    "currencySymbol":  "K",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2003,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-42893"
+}

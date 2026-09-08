@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  13743349,
+    "website":  "https://www.moore-africa.com/kenya",
+    "staffCount":  132,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "Moore Africa Kenya",
+    "institutionId":  "moore-africa-kenya-001",
+    "firmType":  "Regional",
+    "contactEmail":  "info@moore-africa.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  8,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "Moore Africa",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2014,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-19025"
+}

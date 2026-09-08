@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 86% of public accounts",
+                          "Recovered K93 million through follow-up actions",
+                          "21 matters referred to Anti-Corruption Commission",
+                          "Issued 146 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-04-15",
+    "complianceRate":  "50%",
+    "totalAmountRecovered":  36071393,
+    "auditCoverage":  "90%",
+    "currencySymbol":  "K",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  1342567348,
+    "currency":  "MWK",
+    "totalAuditsCompleted":  255,
+    "country":  "Malawi",
+    "reportTitle":  "Annual Report of the National Audit Office - 2024/2025",
+    "totalFindingsIssued":  799,
+    "auditsByType":  {
+                         "financial":  74,
+                         "performance":  64,
+                         "compliance":  44,
+                         "forensic":  10,
+                         "it":  9
+                     }
+}

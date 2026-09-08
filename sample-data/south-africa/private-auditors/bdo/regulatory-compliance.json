@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "bdo-south-africa",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-02-18",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-01-11",
+    "lastPeerReview":  "2023-07-16",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "BDO South Africa",
+    "country":  "South Africa",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "88%",
+    "auditCommitteeEngagements":  34
+}

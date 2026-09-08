@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Zambia",
+    "annualRevenue":  28311506,
+    "website":  "https://www.grant-thornton.com/zambia",
+    "staffCount":  451,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZMW",
+    "institutionName":  "Grant Thornton Zambia",
+    "institutionId":  "grant-thornton-zambia-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@grant-thornton.zambia",
+    "headquarters":  "Zambia Capital",
+    "partners":  28,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Grant Thornton",
+    "currencySymbol":  "K",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2002,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-68825"
+}

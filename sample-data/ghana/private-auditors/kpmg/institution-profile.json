@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Ghana",
+    "annualRevenue":  23166770,
+    "website":  "https://www.kpmg.com/ghana",
+    "staffCount":  419,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "GHS",
+    "institutionName":  "KPMG Ghana",
+    "institutionId":  "kpmg-ghana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@kpmg.ghana",
+    "headquarters":  "Ghana Capital",
+    "partners":  9,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "KPMG",
+    "currencySymbol":  "GHâ‚µ",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1988,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-96480"
+}

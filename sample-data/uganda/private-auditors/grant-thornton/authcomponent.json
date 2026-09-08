@@ -1,0 +1,29 @@
+﻿{
+    "description":  "Mid-Tier auditing portal for Grant Thornton Uganda - 14 permissions",
+    "permissionTier":  "MidTier",
+    "institutionId":  "grant-thornton-uganda",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ReviewQuality",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "StrategicPlanning.ManageDocuments",
+                        "RealTimeAudit.MonitorFinancials",
+                        "RealTimeAudit.MonitorControls",
+                        "DecisionIntelligence.ViewDashboard",
+                        "DecisionIntelligence.AssessRisk",
+                        "AdvancedFeatures.ViewPerformance",
+                        "AIAssistant.UseAssistant"
+                    ],
+    "componentId":  "grant-thornton-uganda-AUTH-001",
+    "componentName":  "Grant Thornton Uganda Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Mid-Tier",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Grant Thornton Uganda",
+    "country":  "Uganda"
+}

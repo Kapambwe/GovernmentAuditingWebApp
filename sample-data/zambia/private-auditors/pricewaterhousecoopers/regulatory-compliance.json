@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "pricewaterhousecoopers-zambia",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-04-22",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Zambia",
+    "nextPeerReview":  "2026-11-19",
+    "lastPeerReview":  "2023-01-23",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "PricewaterhouseCoopers Zambia",
+    "country":  "Zambia",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "82%",
+    "auditCommitteeEngagements":  13
+}

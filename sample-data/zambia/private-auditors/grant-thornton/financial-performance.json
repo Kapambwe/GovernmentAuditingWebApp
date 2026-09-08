@@ -1,0 +1,62 @@
+﻿[
+    {
+        "churned":  2,
+        "totalRevenue":  78504689,
+        "headcount":  259,
+        "retainedClients":  75,
+        "advisoryFees":  19626172,
+        "taxFees":  11775703,
+        "year":  2021,
+        "auditFees":  47102813,
+        "currency":  "ZMW",
+        "profitMargin":  29,
+        "newClients":  27,
+        "totalCosts":  55738329,
+        "operatingProfit":  22766360
+    },
+    {
+        "churned":  3,
+        "totalRevenue":  14285975,
+        "headcount":  426,
+        "retainedClients":  87,
+        "advisoryFees":  3571494,
+        "taxFees":  2142896,
+        "year":  2022,
+        "auditFees":  8571585,
+        "currency":  "ZMW",
+        "profitMargin":  34,
+        "newClients":  6,
+        "totalCosts":  9428744,
+        "operatingProfit":  4857231
+    },
+    {
+        "churned":  4,
+        "totalRevenue":  44433234,
+        "headcount":  420,
+        "retainedClients":  99,
+        "advisoryFees":  11108308,
+        "taxFees":  6664985,
+        "year":  2023,
+        "auditFees":  26659940,
+        "currency":  "ZMW",
+        "profitMargin":  32,
+        "newClients":  15,
+        "totalCosts":  30214599,
+        "operatingProfit":  14218635
+    },
+    {
+        "churned":  1,
+        "totalRevenue":  42717791,
+        "headcount":  283,
+        "retainedClients":  112,
+        "advisoryFees":  10679448,
+        "taxFees":  6407669,
+        "year":  2024,
+        "auditFees":  25630675,
+        "currency":  "ZMW",
+        "profitMargin":  29,
+        "newClients":  28,
+        "totalCosts":  30329632,
+        "operatingProfit":  12388159
+    }
+]

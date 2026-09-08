@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Nigeria",
+    "annualRevenue":  39560336,
+    "website":  "https://www.ernst-young.com/nigeria",
+    "staffCount":  449,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NGN",
+    "institutionName":  "Ernst \u0026 Young Nigeria",
+    "institutionId":  "ernst-young-nigeria-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@ernst-young.nigeria",
+    "headquarters":  "Nigeria Capital",
+    "partners":  12,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "Ernst \u0026 Young",
+    "currencySymbol":  "â‚¦",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1992,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-18270"
+}

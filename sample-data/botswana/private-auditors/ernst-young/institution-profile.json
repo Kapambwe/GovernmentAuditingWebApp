@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Botswana",
+    "annualRevenue":  17566640,
+    "website":  "https://www.ernst-young.com/botswana",
+    "staffCount":  431,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "BWP",
+    "institutionName":  "Ernst \u0026 Young Botswana",
+    "institutionId":  "ernst-young-botswana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@ernst-young.botswana",
+    "headquarters":  "Botswana Capital",
+    "partners":  14,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  4,
+    "parentFirm":  "Ernst \u0026 Young",
+    "currencySymbol":  "P",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1992,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-77247"
+}

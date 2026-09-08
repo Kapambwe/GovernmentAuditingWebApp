@@ -1,0 +1,29 @@
+﻿{
+    "description":  "Mid-Tier auditing portal for Grant Thornton Ghana - 14 permissions",
+    "permissionTier":  "MidTier",
+    "institutionId":  "grant-thornton-ghana",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ReviewQuality",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "StrategicPlanning.ManageDocuments",
+                        "RealTimeAudit.MonitorFinancials",
+                        "RealTimeAudit.MonitorControls",
+                        "DecisionIntelligence.ViewDashboard",
+                        "DecisionIntelligence.AssessRisk",
+                        "AdvancedFeatures.ViewPerformance",
+                        "AIAssistant.UseAssistant"
+                    ],
+    "componentId":  "grant-thornton-ghana-AUTH-001",
+    "componentName":  "Grant Thornton Ghana Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Mid-Tier",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Grant Thornton Ghana",
+    "country":  "Ghana"
+}

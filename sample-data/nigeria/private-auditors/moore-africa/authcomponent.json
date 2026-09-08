@@ -1,0 +1,24 @@
+﻿{
+    "description":  "Regional auditing portal for Moore Africa Nigeria - 9 permissions",
+    "permissionTier":  "Regional",
+    "institutionId":  "moore-africa-nigeria",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "RealTimeAudit.MonitorFinancials",
+                        "DecisionIntelligence.ViewDashboard",
+                        "AdvancedFeatures.ViewPerformance"
+                    ],
+    "componentId":  "moore-africa-nigeria-AUTH-001",
+    "componentName":  "Moore Africa Nigeria Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Regional",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Moore Africa Nigeria",
+    "country":  "Nigeria"
+}

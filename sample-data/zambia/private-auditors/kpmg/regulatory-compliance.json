@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "kpmg-zambia",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-02-03",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Zambia",
+    "nextPeerReview":  "2026-01-17",
+    "lastPeerReview":  "2023-11-15",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "KPMG Zambia",
+    "country":  "Zambia",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "99%",
+    "auditCommitteeEngagements":  51
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "grant-thornton-kenya",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-03-15",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Kenya",
+    "nextPeerReview":  "2026-11-03",
+    "lastPeerReview":  "2023-01-02",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "Grant Thornton Kenya",
+    "country":  "Kenya",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "94%",
+    "auditCommitteeEngagements":  15
+}

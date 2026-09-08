@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Uganda",
+    "annualRevenue":  64200595,
+    "website":  "https://www.mazars.com/uganda",
+    "staffCount":  490,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "UGX",
+    "institutionName":  "Mazars Uganda",
+    "institutionId":  "mazars-uganda-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@mazars.uganda",
+    "headquarters":  "Uganda Capital",
+    "partners":  15,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  2,
+    "parentFirm":  "Mazars",
+    "currencySymbol":  "USh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2008,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-33057"
+}

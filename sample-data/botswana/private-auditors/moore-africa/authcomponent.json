@@ -1,0 +1,24 @@
+﻿{
+    "description":  "Regional auditing portal for Moore Africa Botswana - 9 permissions",
+    "permissionTier":  "Regional",
+    "institutionId":  "moore-africa-botswana",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "RealTimeAudit.MonitorFinancials",
+                        "DecisionIntelligence.ViewDashboard",
+                        "AdvancedFeatures.ViewPerformance"
+                    ],
+    "componentId":  "moore-africa-botswana-AUTH-001",
+    "componentName":  "Moore Africa Botswana Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Regional",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Moore Africa Botswana",
+    "country":  "Botswana"
+}

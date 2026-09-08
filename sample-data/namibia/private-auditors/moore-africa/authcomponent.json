@@ -1,0 +1,24 @@
+﻿{
+    "description":  "Regional auditing portal for Moore Africa Namibia - 9 permissions",
+    "permissionTier":  "Regional",
+    "institutionId":  "moore-africa-namibia",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "RealTimeAudit.MonitorFinancials",
+                        "DecisionIntelligence.ViewDashboard",
+                        "AdvancedFeatures.ViewPerformance"
+                    ],
+    "componentId":  "moore-africa-namibia-AUTH-001",
+    "componentName":  "Moore Africa Namibia Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Regional",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Moore Africa Namibia",
+    "country":  "Namibia"
+}

@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Botswana",
+    "annualRevenue":  75399007,
+    "website":  "https://www.deloitte.com/botswana",
+    "staffCount":  344,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "BWP",
+    "institutionName":  "Deloitte Botswana",
+    "institutionId":  "deloitte-botswana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.botswana",
+    "headquarters":  "Botswana Capital",
+    "partners":  13,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "P",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1994,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-14468"
+}

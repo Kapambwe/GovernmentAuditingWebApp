@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "bdo-ghana",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-03-15",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Ghana",
+    "nextPeerReview":  "2026-01-12",
+    "lastPeerReview":  "2023-08-05",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "BDO Ghana",
+    "country":  "Ghana",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "80%",
+    "auditCommitteeEngagements":  58
+}

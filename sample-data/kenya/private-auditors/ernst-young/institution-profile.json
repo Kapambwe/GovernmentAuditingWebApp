@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  75932499,
+    "website":  "https://www.ernst-young.com/kenya",
+    "staffCount":  275,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "Ernst \u0026 Young Kenya",
+    "institutionId":  "ernst-young-kenya-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@ernst-young.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  13,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Ernst \u0026 Young",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1992,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-89625"
+}

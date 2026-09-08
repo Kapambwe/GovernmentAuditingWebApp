@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Zambia",
+    "annualRevenue":  6425971,
+    "website":  "https://www.kpmg.com/zambia",
+    "staffCount":  243,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZMW",
+    "institutionName":  "KPMG Zambia",
+    "institutionId":  "kpmg-zambia-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@kpmg.zambia",
+    "headquarters":  "Zambia Capital",
+    "partners":  12,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "KPMG",
+    "currencySymbol":  "K",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1991,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-69066"
+}

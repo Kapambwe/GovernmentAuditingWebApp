@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "pricewaterhousecoopers-tanzania",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-03-03",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Tanzania",
+    "nextPeerReview":  "2026-02-15",
+    "lastPeerReview":  "2023-06-22",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "PricewaterhouseCoopers Tanzania",
+    "country":  "Tanzania",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "86%",
+    "auditCommitteeEngagements":  37
+}

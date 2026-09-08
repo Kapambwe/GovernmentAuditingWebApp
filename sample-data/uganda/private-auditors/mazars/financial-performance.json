@@ -1,0 +1,62 @@
+﻿[
+    {
+        "churned":  6,
+        "totalRevenue":  63421614,
+        "headcount":  407,
+        "retainedClients":  52,
+        "advisoryFees":  15855404,
+        "taxFees":  9513242,
+        "year":  2021,
+        "auditFees":  38052968,
+        "currency":  "UGX",
+        "profitMargin":  33,
+        "newClients":  6,
+        "totalCosts":  42492481,
+        "operatingProfit":  20929133
+    },
+    {
+        "churned":  5,
+        "totalRevenue":  35118446,
+        "headcount":  374,
+        "retainedClients":  118,
+        "advisoryFees":  8779612,
+        "taxFees":  5267767,
+        "year":  2022,
+        "auditFees":  21071068,
+        "currency":  "UGX",
+        "profitMargin":  41,
+        "newClients":  10,
+        "totalCosts":  20719883,
+        "operatingProfit":  14398563
+    },
+    {
+        "churned":  1,
+        "totalRevenue":  65054513,
+        "headcount":  215,
+        "retainedClients":  81,
+        "advisoryFees":  16263628,
+        "taxFees":  9758177,
+        "year":  2023,
+        "auditFees":  39032708,
+        "currency":  "UGX",
+        "profitMargin":  28,
+        "newClients":  13,
+        "totalCosts":  46839249,
+        "operatingProfit":  18215264
+    },
+    {
+        "churned":  4,
+        "totalRevenue":  16195820,
+        "headcount":  450,
+        "retainedClients":  43,
+        "advisoryFees":  4048955,
+        "taxFees":  2429373,
+        "year":  2024,
+        "auditFees":  9717492,
+        "currency":  "UGX",
+        "profitMargin":  45,
+        "newClients":  6,
+        "totalCosts":  8907701,
+        "operatingProfit":  7288119
+    }
+]

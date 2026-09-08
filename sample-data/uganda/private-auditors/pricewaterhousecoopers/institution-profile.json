@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Uganda",
+    "annualRevenue":  25286220,
+    "website":  "https://www.pricewaterhousecoopers.com/uganda",
+    "staffCount":  311,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "UGX",
+    "institutionName":  "PricewaterhouseCoopers Uganda",
+    "institutionId":  "pricewaterhousecoopers-uganda-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@pricewaterhousecoopers.uganda",
+    "headquarters":  "Uganda Capital",
+    "partners":  19,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "PricewaterhouseCoopers",
+    "currencySymbol":  "USh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2002,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-44971"
+}

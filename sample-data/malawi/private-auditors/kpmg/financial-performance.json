@@ -1,0 +1,62 @@
+﻿[
+    {
+        "churned":  1,
+        "totalRevenue":  6844665,
+        "headcount":  389,
+        "retainedClients":  83,
+        "advisoryFees":  1711166,
+        "taxFees":  1026700,
+        "year":  2021,
+        "auditFees":  4106799,
+        "currency":  "MWK",
+        "profitMargin":  39,
+        "newClients":  14,
+        "totalCosts":  4175246,
+        "operatingProfit":  2669419
+    },
+    {
+        "churned":  3,
+        "totalRevenue":  6437692,
+        "headcount":  439,
+        "retainedClients":  77,
+        "advisoryFees":  1609423,
+        "taxFees":  965654,
+        "year":  2022,
+        "auditFees":  3862615,
+        "currency":  "MWK",
+        "profitMargin":  42,
+        "newClients":  7,
+        "totalCosts":  3733861,
+        "operatingProfit":  2703831
+    },
+    {
+        "churned":  1,
+        "totalRevenue":  66589497,
+        "headcount":  230,
+        "retainedClients":  69,
+        "advisoryFees":  16647374,
+        "taxFees":  9988425,
+        "year":  2023,
+        "auditFees":  39953698,
+        "currency":  "MWK",
+        "profitMargin":  44,
+        "newClients":  24,
+        "totalCosts":  37290118,
+        "operatingProfit":  29299379
+    },
+    {
+        "churned":  4,
+        "totalRevenue":  67143384,
+        "headcount":  169,
+        "retainedClients":  95,
+        "advisoryFees":  16785846,
+        "taxFees":  10071508,
+        "year":  2024,
+        "auditFees":  40286030,
+        "currency":  "MWK",
+        "profitMargin":  35,
+        "newClients":  8,
+        "totalCosts":  43643200,
+        "operatingProfit":  23500184
+    }
+]

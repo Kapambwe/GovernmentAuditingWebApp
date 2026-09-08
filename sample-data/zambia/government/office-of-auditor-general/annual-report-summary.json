@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 84% of public accounts",
+                          "Recovered K148 million through follow-up actions",
+                          "22 matters referred to Anti-Corruption Commission",
+                          "Issued 150 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-02-08",
+    "complianceRate":  "65%",
+    "totalAmountRecovered":  37838768,
+    "auditCoverage":  "80%",
+    "currencySymbol":  "K",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  1806613954,
+    "currency":  "ZMW",
+    "totalAuditsCompleted":  212,
+    "country":  "Zambia",
+    "reportTitle":  "Annual Report of the Office of the Auditor General - 2024/2025",
+    "totalFindingsIssued":  480,
+    "auditsByType":  {
+                         "financial":  115,
+                         "performance":  60,
+                         "compliance":  116,
+                         "forensic":  20,
+                         "it":  11
+                     }
+}

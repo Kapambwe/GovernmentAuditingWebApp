@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.kenya.gov",
+    "annualBudget":  60733492,
+    "currencySymbol":  "KSh",
+    "institutionId":  "OAG-KE-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1960,
+    "institutionName":  "Office of the Auditor-General",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  816,
+    "currency":  "KES",
+    "contactEmail":  "info@auditor-general.kenya.gov",
+    "country":  "Kenya",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-kenya",
+                        "twitter":  "@AuditorGeneralKenya"
+                    },
+    "headquarters":  "Kenya Capital"
+}

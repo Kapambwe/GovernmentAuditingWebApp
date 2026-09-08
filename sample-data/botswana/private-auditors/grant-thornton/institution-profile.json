@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Botswana",
+    "annualRevenue":  12239734,
+    "website":  "https://www.grant-thornton.com/botswana",
+    "staffCount":  240,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "BWP",
+    "institutionName":  "Grant Thornton Botswana",
+    "institutionId":  "grant-thornton-botswana-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@grant-thornton.botswana",
+    "headquarters":  "Botswana Capital",
+    "partners":  23,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Grant Thornton",
+    "currencySymbol":  "P",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2002,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-96647"
+}

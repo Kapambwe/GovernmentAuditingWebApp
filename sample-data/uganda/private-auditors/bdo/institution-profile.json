@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Uganda",
+    "annualRevenue":  39604178,
+    "website":  "https://www.bdo.com/uganda",
+    "staffCount":  197,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "UGX",
+    "institutionName":  "BDO Uganda",
+    "institutionId":  "bdo-uganda-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@bdo.uganda",
+    "headquarters":  "Uganda Capital",
+    "partners":  7,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "BDO",
+    "currencySymbol":  "USh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2003,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-43549"
+}

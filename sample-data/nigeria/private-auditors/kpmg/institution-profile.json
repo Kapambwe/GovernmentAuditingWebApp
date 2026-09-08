@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Nigeria",
+    "annualRevenue":  39213212,
+    "website":  "https://www.kpmg.com/nigeria",
+    "staffCount":  180,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NGN",
+    "institutionName":  "KPMG Nigeria",
+    "institutionId":  "kpmg-nigeria-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@kpmg.nigeria",
+    "headquarters":  "Nigeria Capital",
+    "partners":  8,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "KPMG",
+    "currencySymbol":  "â‚¦",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1987,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-24213"
+}

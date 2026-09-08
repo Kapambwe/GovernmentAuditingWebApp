@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 96% of public accounts",
+                          "Recovered P156 million through follow-up actions",
+                          "11 matters referred to Anti-Corruption Commission",
+                          "Issued 149 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-01-03",
+    "complianceRate":  "63%",
+    "totalAmountRecovered":  129804894,
+    "auditCoverage":  "75%",
+    "currencySymbol":  "P",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  1445516887,
+    "currency":  "BWP",
+    "totalAuditsCompleted":  371,
+    "country":  "Botswana",
+    "reportTitle":  "Annual Report of the Office of the Auditor General - 2024/2025",
+    "totalFindingsIssued":  482,
+    "auditsByType":  {
+                         "financial":  62,
+                         "performance":  71,
+                         "compliance":  36,
+                         "forensic":  35,
+                         "it":  9
+                     }
+}

@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Namibia",
+    "annualRevenue":  41706484,
+    "website":  "https://www.grant-thornton.com/namibia",
+    "staffCount":  64,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NAD",
+    "institutionName":  "Grant Thornton Namibia",
+    "institutionId":  "grant-thornton-namibia-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@grant-thornton.namibia",
+    "headquarters":  "Namibia Capital",
+    "partners":  11,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "Grant Thornton",
+    "currencySymbol":  "N$",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2004,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-58235"
+}

@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 88% of public accounts",
+                          "Recovered GHâ‚µ87 million through follow-up actions",
+                          "10 matters referred to Anti-Corruption Commission",
+                          "Issued 96 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-03-08",
+    "complianceRate":  "61%",
+    "totalAmountRecovered":  107172148,
+    "auditCoverage":  "71%",
+    "currencySymbol":  "GHâ‚µ",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  2611776648,
+    "currency":  "GHS",
+    "totalAuditsCompleted":  342,
+    "country":  "Ghana",
+    "reportTitle":  "Annual Report of the Ghana Audit Service - 2024/2025",
+    "totalFindingsIssued":  396,
+    "auditsByType":  {
+                         "financial":  131,
+                         "performance":  60,
+                         "compliance":  64,
+                         "forensic":  19,
+                         "it":  12
+                     }
+}

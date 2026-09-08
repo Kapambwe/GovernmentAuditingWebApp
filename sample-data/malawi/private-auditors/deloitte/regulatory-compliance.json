@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-malawi",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-04-23",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Malawi",
+    "nextPeerReview":  "2026-11-19",
+    "lastPeerReview":  "2023-06-20",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "Deloitte Malawi",
+    "country":  "Malawi",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "94%",
+    "auditCommitteeEngagements":  44
+}

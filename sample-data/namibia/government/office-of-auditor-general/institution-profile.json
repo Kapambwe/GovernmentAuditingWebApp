@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.namibia.gov",
+    "annualBudget":  19868998,
+    "currencySymbol":  "N$",
+    "institutionId":  "OAG-NA-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1973,
+    "institutionName":  "Office of the Auditor-General",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  453,
+    "currency":  "NAD",
+    "contactEmail":  "info@auditor-general.namibia.gov",
+    "country":  "Namibia",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-namibia",
+                        "twitter":  "@AuditorGeneralNamibia"
+                    },
+    "headquarters":  "Namibia Capital"
+}

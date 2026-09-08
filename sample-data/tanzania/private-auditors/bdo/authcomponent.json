@@ -1,0 +1,29 @@
+﻿{
+    "description":  "Mid-Tier auditing portal for BDO Tanzania - 14 permissions",
+    "permissionTier":  "MidTier",
+    "institutionId":  "bdo-tanzania",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ReviewQuality",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "StrategicPlanning.ManageDocuments",
+                        "RealTimeAudit.MonitorFinancials",
+                        "RealTimeAudit.MonitorControls",
+                        "DecisionIntelligence.ViewDashboard",
+                        "DecisionIntelligence.AssessRisk",
+                        "AdvancedFeatures.ViewPerformance",
+                        "AIAssistant.UseAssistant"
+                    ],
+    "componentId":  "bdo-tanzania-AUTH-001",
+    "componentName":  "BDO Tanzania Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Mid-Tier",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "BDO Tanzania",
+    "country":  "Tanzania"
+}

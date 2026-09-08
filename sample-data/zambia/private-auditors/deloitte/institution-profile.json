@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Zambia",
+    "annualRevenue":  4513615,
+    "website":  "https://www.deloitte.com/zambia",
+    "staffCount":  245,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZMW",
+    "institutionName":  "Deloitte Zambia",
+    "institutionId":  "deloitte-zambia-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.zambia",
+    "headquarters":  "Zambia Capital",
+    "partners":  4,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  3,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "K",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1996,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-98348"
+}

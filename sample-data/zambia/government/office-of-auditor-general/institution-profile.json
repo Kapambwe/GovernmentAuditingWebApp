@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.zambia.gov",
+    "annualBudget":  59187424,
+    "currencySymbol":  "K",
+    "institutionId":  "OAG-ZM-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1950,
+    "institutionName":  "Office of the Auditor General",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  975,
+    "currency":  "ZMW",
+    "contactEmail":  "info@auditor-general.zambia.gov",
+    "country":  "Zambia",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-zambia",
+                        "twitter":  "@AuditorGeneralZambia"
+                    },
+    "headquarters":  "Zambia Capital"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-nigeria",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-04-18",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Nigeria",
+    "nextPeerReview":  "2026-10-25",
+    "lastPeerReview":  "2023-05-02",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "Deloitte Nigeria",
+    "country":  "Nigeria",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "95%",
+    "auditCommitteeEngagements":  36
+}

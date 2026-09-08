@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 91% of public accounts",
+                          "Recovered USh174 million through follow-up actions",
+                          "20 matters referred to Anti-Corruption Commission",
+                          "Issued 75 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-02-01",
+    "complianceRate":  "53%",
+    "totalAmountRecovered":  138357345,
+    "auditCoverage":  "73%",
+    "currencySymbol":  "USh",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  955518713,
+    "currency":  "UGX",
+    "totalAuditsCompleted":  385,
+    "country":  "Uganda",
+    "reportTitle":  "Annual Report of the Office of the Auditor General - 2024/2025",
+    "totalFindingsIssued":  1272,
+    "auditsByType":  {
+                         "financial":  157,
+                         "performance":  74,
+                         "compliance":  108,
+                         "forensic":  18,
+                         "it":  4
+                     }
+}

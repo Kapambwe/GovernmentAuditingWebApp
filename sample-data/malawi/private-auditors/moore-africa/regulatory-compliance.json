@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "moore-africa-malawi",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-05-18",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Malawi",
+    "nextPeerReview":  "2026-04-23",
+    "lastPeerReview":  "2023-07-18",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "Moore Africa Malawi",
+    "country":  "Malawi",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "94%",
+    "auditCommitteeEngagements":  11
+}

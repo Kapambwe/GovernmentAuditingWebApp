@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "moore-africa-botswana",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-05-19",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Botswana",
+    "nextPeerReview":  "2026-09-20",
+    "lastPeerReview":  "2023-01-24",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "Moore Africa Botswana",
+    "country":  "Botswana",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "81%",
+    "auditCommitteeEngagements":  22
+}

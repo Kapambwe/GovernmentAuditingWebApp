@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  28984342,
+    "website":  "https://www.deloitte.com/kenya",
+    "staffCount":  453,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "Deloitte Kenya",
+    "institutionId":  "deloitte-kenya-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  26,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  2,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1994,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-12908"
+}

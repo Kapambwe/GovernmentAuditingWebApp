@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Malawi",
+    "annualRevenue":  52524436,
+    "website":  "https://www.moore-africa.com/malawi",
+    "staffCount":  157,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "MWK",
+    "institutionName":  "Moore Africa Malawi",
+    "institutionId":  "moore-africa-malawi-001",
+    "firmType":  "Regional",
+    "contactEmail":  "info@moore-africa.malawi",
+    "headquarters":  "Malawi Capital",
+    "partners":  26,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "Moore Africa",
+    "currencySymbol":  "K",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2011,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-39942"
+}

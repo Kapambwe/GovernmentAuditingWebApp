@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Ghana",
+    "annualRevenue":  77165115,
+    "website":  "https://www.deloitte.com/ghana",
+    "staffCount":  371,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "GHS",
+    "institutionName":  "Deloitte Ghana",
+    "institutionId":  "deloitte-ghana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.ghana",
+    "headquarters":  "Ghana Capital",
+    "partners":  14,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "GHâ‚µ",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1996,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-13441"
+}

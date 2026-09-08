@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Nigeria",
+    "annualRevenue":  16731566,
+    "website":  "https://www.pricewaterhousecoopers.com/nigeria",
+    "staffCount":  60,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NGN",
+    "institutionName":  "PricewaterhouseCoopers Nigeria",
+    "institutionId":  "pricewaterhousecoopers-nigeria-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@pricewaterhousecoopers.nigeria",
+    "headquarters":  "Nigeria Capital",
+    "partners":  7,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "PricewaterhouseCoopers",
+    "currencySymbol":  "â‚¦",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2000,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-30627"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "moore-africa-south-africa",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-03-14",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-03-17",
+    "lastPeerReview":  "2023-06-12",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "Moore Africa South Africa",
+    "country":  "South Africa",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "85%",
+    "auditCommitteeEngagements":  52
+}

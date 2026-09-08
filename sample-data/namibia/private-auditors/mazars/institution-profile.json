@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Namibia",
+    "annualRevenue":  17527080,
+    "website":  "https://www.mazars.com/namibia",
+    "staffCount":  433,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NAD",
+    "institutionName":  "Mazars Namibia",
+    "institutionId":  "mazars-namibia-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@mazars.namibia",
+    "headquarters":  "Namibia Capital",
+    "partners":  7,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Mazars",
+    "currencySymbol":  "N$",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2008,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-87698"
+}

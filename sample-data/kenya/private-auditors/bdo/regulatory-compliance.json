@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "bdo-kenya",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-01-16",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Kenya",
+    "nextPeerReview":  "2026-07-23",
+    "lastPeerReview":  "2023-01-19",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "BDO Kenya",
+    "country":  "Kenya",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "89%",
+    "auditCommitteeEngagements":  57
+}

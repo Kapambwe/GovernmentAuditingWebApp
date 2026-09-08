@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "mazars-zambia",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-02-25",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Zambia",
+    "nextPeerReview":  "2026-02-13",
+    "lastPeerReview":  "2023-09-12",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "Mazars Zambia",
+    "country":  "Zambia",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "97%",
+    "auditCommitteeEngagements":  53
+}

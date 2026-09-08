@@ -1,0 +1,29 @@
+﻿{
+    "description":  "Mid-Tier auditing portal for Mazars Uganda - 14 permissions",
+    "permissionTier":  "MidTier",
+    "institutionId":  "mazars-uganda",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ReviewQuality",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "StrategicPlanning.ManageDocuments",
+                        "RealTimeAudit.MonitorFinancials",
+                        "RealTimeAudit.MonitorControls",
+                        "DecisionIntelligence.ViewDashboard",
+                        "DecisionIntelligence.AssessRisk",
+                        "AdvancedFeatures.ViewPerformance",
+                        "AIAssistant.UseAssistant"
+                    ],
+    "componentId":  "mazars-uganda-AUTH-001",
+    "componentName":  "Mazars Uganda Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Mid-Tier",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Mazars Uganda",
+    "country":  "Uganda"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-namibia",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-04-25",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Namibia",
+    "nextPeerReview":  "2026-10-09",
+    "lastPeerReview":  "2023-11-14",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "Deloitte Namibia",
+    "country":  "Namibia",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "98%",
+    "auditCommitteeEngagements":  30
+}

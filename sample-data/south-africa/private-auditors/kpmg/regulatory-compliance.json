@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "kpmg-south-africa",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-05-07",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-08-26",
+    "lastPeerReview":  "2023-08-02",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "KPMG South Africa",
+    "country":  "South Africa",
+    "finesIssued":  0,
+    "cpd_hoursCompliance":  "88%",
+    "auditCommitteeEngagements":  55
+}

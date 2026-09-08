@@ -1,0 +1,24 @@
+﻿{
+    "description":  "Regional auditing portal for Moore Africa Ghana - 9 permissions",
+    "permissionTier":  "Regional",
+    "institutionId":  "moore-africa-ghana",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "RealTimeAudit.MonitorFinancials",
+                        "DecisionIntelligence.ViewDashboard",
+                        "AdvancedFeatures.ViewPerformance"
+                    ],
+    "componentId":  "moore-africa-ghana-AUTH-001",
+    "componentName":  "Moore Africa Ghana Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Regional",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "Moore Africa Ghana",
+    "country":  "Ghana"
+}

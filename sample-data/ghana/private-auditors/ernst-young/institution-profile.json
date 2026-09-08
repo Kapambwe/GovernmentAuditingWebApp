@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Ghana",
+    "annualRevenue":  69987873,
+    "website":  "https://www.ernst-young.com/ghana",
+    "staffCount":  205,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "GHS",
+    "institutionName":  "Ernst \u0026 Young Ghana",
+    "institutionId":  "ernst-young-ghana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@ernst-young.ghana",
+    "headquarters":  "Ghana Capital",
+    "partners":  10,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Ernst \u0026 Young",
+    "currencySymbol":  "GHâ‚µ",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1992,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-87819"
+}

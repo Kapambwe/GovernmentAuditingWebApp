@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Botswana",
+    "annualRevenue":  33848285,
+    "website":  "https://www.pricewaterhousecoopers.com/botswana",
+    "staffCount":  92,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "BWP",
+    "institutionName":  "PricewaterhouseCoopers Botswana",
+    "institutionId":  "pricewaterhousecoopers-botswana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@pricewaterhousecoopers.botswana",
+    "headquarters":  "Botswana Capital",
+    "partners":  17,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  4,
+    "parentFirm":  "PricewaterhouseCoopers",
+    "currencySymbol":  "P",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2002,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-18134"
+}

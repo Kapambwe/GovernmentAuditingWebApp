@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Uganda",
+    "annualRevenue":  60800529,
+    "website":  "https://www.moore-africa.com/uganda",
+    "staffCount":  146,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "UGX",
+    "institutionName":  "Moore Africa Uganda",
+    "institutionId":  "moore-africa-uganda-001",
+    "firmType":  "Regional",
+    "contactEmail":  "info@moore-africa.uganda",
+    "headquarters":  "Uganda Capital",
+    "partners":  28,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "Moore Africa",
+    "currencySymbol":  "USh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2011,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-60257"
+}

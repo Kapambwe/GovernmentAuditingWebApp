@@ -1,0 +1,62 @@
+﻿[
+    {
+        "churned":  2,
+        "totalRevenue":  34064598,
+        "headcount":  71,
+        "retainedClients":  80,
+        "advisoryFees":  8516150,
+        "taxFees":  5109690,
+        "year":  2021,
+        "auditFees":  20438759,
+        "currency":  "BWP",
+        "profitMargin":  35,
+        "newClients":  27,
+        "totalCosts":  22141989,
+        "operatingProfit":  11922609
+    },
+    {
+        "churned":  5,
+        "totalRevenue":  19588605,
+        "headcount":  329,
+        "retainedClients":  44,
+        "advisoryFees":  4897151,
+        "taxFees":  2938291,
+        "year":  2022,
+        "auditFees":  11753163,
+        "currency":  "BWP",
+        "profitMargin":  33,
+        "newClients":  23,
+        "totalCosts":  13124365,
+        "operatingProfit":  6464240
+    },
+    {
+        "churned":  4,
+        "totalRevenue":  19110381,
+        "headcount":  383,
+        "retainedClients":  49,
+        "advisoryFees":  4777595,
+        "taxFees":  2866557,
+        "year":  2023,
+        "auditFees":  11466229,
+        "currency":  "BWP",
+        "profitMargin":  31,
+        "newClients":  11,
+        "totalCosts":  13186163,
+        "operatingProfit":  5924218
+    },
+    {
+        "churned":  4,
+        "totalRevenue":  52071781,
+        "headcount":  188,
+        "retainedClients":  108,
+        "advisoryFees":  13017945,
+        "taxFees":  7810767,
+        "year":  2024,
+        "auditFees":  31243069,
+        "currency":  "BWP",
+        "profitMargin":  27,
+        "newClients":  10,
+        "totalCosts":  38012400,
+        "operatingProfit":  14059381
+    }
+]

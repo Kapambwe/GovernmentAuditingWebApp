@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.ghana.gov",
+    "annualBudget":  66613980,
+    "currencySymbol":  "GHâ‚µ",
+    "institutionId":  "GAS-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1954,
+    "institutionName":  "Ghana Audit Service",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  1198,
+    "currency":  "GHS",
+    "contactEmail":  "info@auditor-general.ghana.gov",
+    "country":  "Ghana",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-ghana",
+                        "twitter":  "@AuditorGeneralGhana"
+                    },
+    "headquarters":  "Ghana Capital"
+}

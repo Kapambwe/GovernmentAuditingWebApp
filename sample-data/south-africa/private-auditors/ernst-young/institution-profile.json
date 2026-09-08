@@ -1,0 +1,44 @@
+﻿{
+    "country":  "South Africa",
+    "annualRevenue":  16212935,
+    "website":  "https://www.ernst-young.com/south-africa",
+    "staffCount":  400,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZAR",
+    "institutionName":  "Ernst \u0026 Young South Africa",
+    "institutionId":  "ernst-young-south-africa-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@ernst-young.south-africa",
+    "headquarters":  "South Africa Capital",
+    "partners":  10,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  2,
+    "parentFirm":  "Ernst \u0026 Young",
+    "currencySymbol":  "R",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1989,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-18638"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "kpmg-tanzania",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-04-16",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Tanzania",
+    "nextPeerReview":  "2026-06-08",
+    "lastPeerReview":  "2023-06-18",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "KPMG Tanzania",
+    "country":  "Tanzania",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "84%",
+    "auditCommitteeEngagements":  38
+}

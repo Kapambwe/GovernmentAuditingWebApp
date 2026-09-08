@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.malawi.gov",
+    "annualBudget":  64625217,
+    "currencySymbol":  "K",
+    "institutionId":  "NAO-MW-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1957,
+    "institutionName":  "National Audit Office",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  1154,
+    "currency":  "MWK",
+    "contactEmail":  "info@auditor-general.malawi.gov",
+    "country":  "Malawi",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-malawi",
+                        "twitter":  "@AuditorGeneralMalawi"
+                    },
+    "headquarters":  "Malawi Capital"
+}

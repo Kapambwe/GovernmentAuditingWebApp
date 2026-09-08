@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-kenya",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-02-25",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Kenya",
+    "nextPeerReview":  "2026-03-06",
+    "lastPeerReview":  "2023-08-11",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Deloitte Kenya",
+    "country":  "Kenya",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "80%",
+    "auditCommitteeEngagements":  31
+}

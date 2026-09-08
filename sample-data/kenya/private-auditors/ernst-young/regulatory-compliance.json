@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "ernst-young-kenya",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-01-26",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Kenya",
+    "nextPeerReview":  "2026-08-01",
+    "lastPeerReview":  "2023-04-19",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "Ernst \u0026 Young Kenya",
+    "country":  "Kenya",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "87%",
+    "auditCommitteeEngagements":  53
+}

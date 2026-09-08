@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Namibia",
+    "annualRevenue":  29707037,
+    "website":  "https://www.moore-africa.com/namibia",
+    "staffCount":  404,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "NAD",
+    "institutionName":  "Moore Africa Namibia",
+    "institutionId":  "moore-africa-namibia-001",
+    "firmType":  "Regional",
+    "contactEmail":  "info@moore-africa.namibia",
+    "headquarters":  "Namibia Capital",
+    "partners":  27,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  4,
+    "parentFirm":  "Moore Africa",
+    "currencySymbol":  "N$",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2014,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-34032"
+}

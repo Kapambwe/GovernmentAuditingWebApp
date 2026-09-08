@@ -1,0 +1,44 @@
+﻿{
+    "country":  "South Africa",
+    "annualRevenue":  62053528,
+    "website":  "https://www.deloitte.com/south-africa",
+    "staffCount":  419,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZAR",
+    "institutionName":  "Deloitte South Africa",
+    "institutionId":  "deloitte-south-africa-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.south-africa",
+    "headquarters":  "South Africa Capital",
+    "partners":  12,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "R",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1994,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-32613"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-ghana",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-01-07",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Ghana",
+    "nextPeerReview":  "2026-04-02",
+    "lastPeerReview":  "2023-01-27",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Deloitte Ghana",
+    "country":  "Ghana",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "80%",
+    "auditCommitteeEngagements":  51
+}

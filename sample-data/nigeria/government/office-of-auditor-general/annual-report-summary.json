@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 87% of public accounts",
+                          "Recovered â‚¦125 million through follow-up actions",
+                          "6 matters referred to Anti-Corruption Commission",
+                          "Issued 69 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-02-14",
+    "complianceRate":  "64%",
+    "totalAmountRecovered":  107488556,
+    "auditCoverage":  "84%",
+    "currencySymbol":  "â‚¦",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  1281539645,
+    "currency":  "NGN",
+    "totalAuditsCompleted":  150,
+    "country":  "Nigeria",
+    "reportTitle":  "Annual Report of the Office of the Auditor-General for the Federation - 2024/2025",
+    "totalFindingsIssued":  424,
+    "auditsByType":  {
+                         "financial":  190,
+                         "performance":  31,
+                         "compliance":  47,
+                         "forensic":  38,
+                         "it":  11
+                     }
+}

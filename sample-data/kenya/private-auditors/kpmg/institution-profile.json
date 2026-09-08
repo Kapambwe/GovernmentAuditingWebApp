@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  52892534,
+    "website":  "https://www.kpmg.com/kenya",
+    "staffCount":  143,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "KPMG Kenya",
+    "institutionId":  "kpmg-kenya-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@kpmg.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  11,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  4,
+    "parentFirm":  "KPMG",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1988,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-58331"
+}

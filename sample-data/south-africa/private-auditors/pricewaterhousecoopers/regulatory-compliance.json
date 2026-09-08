@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "pricewaterhousecoopers-south-africa",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-04-21",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-02-14",
+    "lastPeerReview":  "2023-02-06",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "PricewaterhouseCoopers South Africa",
+    "country":  "South Africa",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "96%",
+    "auditCommitteeEngagements":  59
+}

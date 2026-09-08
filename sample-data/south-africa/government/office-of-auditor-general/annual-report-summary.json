@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 92% of public accounts",
+                          "Recovered R99 million through follow-up actions",
+                          "16 matters referred to Anti-Corruption Commission",
+                          "Issued 80 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-04-02",
+    "complianceRate":  "49%",
+    "totalAmountRecovered":  67767322,
+    "auditCoverage":  "85%",
+    "currencySymbol":  "R",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  3568077512,
+    "currency":  "ZAR",
+    "totalAuditsCompleted":  351,
+    "country":  "South Africa",
+    "reportTitle":  "Annual Report of the Auditor General South Africa - 2024/2025",
+    "totalFindingsIssued":  216,
+    "auditsByType":  {
+                         "financial":  189,
+                         "performance":  35,
+                         "compliance":  143,
+                         "forensic":  18,
+                         "it":  5
+                     }
+}

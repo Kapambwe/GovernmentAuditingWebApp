@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 87% of public accounts",
+                          "Recovered N$140 million through follow-up actions",
+                          "23 matters referred to Anti-Corruption Commission",
+                          "Issued 172 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-01-11",
+    "complianceRate":  "52%",
+    "totalAmountRecovered":  108334532,
+    "auditCoverage":  "85%",
+    "currencySymbol":  "N$",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  930104808,
+    "currency":  "NAD",
+    "totalAuditsCompleted":  239,
+    "country":  "Namibia",
+    "reportTitle":  "Annual Report of the Office of the Auditor-General - 2024/2025",
+    "totalFindingsIssued":  1239,
+    "auditsByType":  {
+                         "financial":  68,
+                         "performance":  72,
+                         "compliance":  82,
+                         "forensic":  16,
+                         "it":  4
+                     }
+}

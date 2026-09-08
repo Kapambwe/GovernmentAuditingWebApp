@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Uganda",
+    "annualRevenue":  12000960,
+    "website":  "https://www.deloitte.com/uganda",
+    "staffCount":  67,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "UGX",
+    "institutionName":  "Deloitte Uganda",
+    "institutionId":  "deloitte-uganda-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@deloitte.uganda",
+    "headquarters":  "Uganda Capital",
+    "partners":  9,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "Deloitte",
+    "currencySymbol":  "USh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1997,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-24741"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "pricewaterhousecoopers-kenya",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-05-19",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Kenya",
+    "nextPeerReview":  "2026-05-16",
+    "lastPeerReview":  "2023-04-27",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "PricewaterhouseCoopers Kenya",
+    "country":  "Kenya",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "95%",
+    "auditCommitteeEngagements":  23
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "mazars-malawi",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-05-27",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2027-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Malawi",
+    "nextPeerReview":  "2026-09-07",
+    "lastPeerReview":  "2023-11-26",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Mazars Malawi",
+    "country":  "Malawi",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "93%",
+    "auditCommitteeEngagements":  26
+}

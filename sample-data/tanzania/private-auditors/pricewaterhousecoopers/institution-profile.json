@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Tanzania",
+    "annualRevenue":  68763636,
+    "website":  "https://www.pricewaterhousecoopers.com/tanzania",
+    "staffCount":  258,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "TZS",
+    "institutionName":  "PricewaterhouseCoopers Tanzania",
+    "institutionId":  "pricewaterhousecoopers-tanzania-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@pricewaterhousecoopers.tanzania",
+    "headquarters":  "Tanzania Capital",
+    "partners":  21,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "PricewaterhouseCoopers",
+    "currencySymbol":  "TSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2001,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-10083"
+}

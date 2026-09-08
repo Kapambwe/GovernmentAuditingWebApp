@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "kpmg-ghana",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-05-05",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Ghana",
+    "nextPeerReview":  "2026-10-06",
+    "lastPeerReview":  "2023-06-02",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "KPMG Ghana",
+    "country":  "Ghana",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "98%",
+    "auditCommitteeEngagements":  13
+}

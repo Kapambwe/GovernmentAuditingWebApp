@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "mazars-kenya",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-02-15",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Kenya",
+    "nextPeerReview":  "2026-11-15",
+    "lastPeerReview":  "2023-07-15",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Mazars Kenya",
+    "country":  "Kenya",
+    "finesIssued":  0,
+    "cpd_hoursCompliance":  "88%",
+    "auditCommitteeEngagements":  27
+}

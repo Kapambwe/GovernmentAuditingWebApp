@@ -1,0 +1,62 @@
+﻿[
+    {
+        "churned":  1,
+        "totalRevenue":  41063212,
+        "headcount":  205,
+        "retainedClients":  41,
+        "advisoryFees":  10265803,
+        "taxFees":  6159482,
+        "year":  2021,
+        "auditFees":  24637927,
+        "currency":  "ZAR",
+        "profitMargin":  26,
+        "newClients":  19,
+        "totalCosts":  30386777,
+        "operatingProfit":  10676435
+    },
+    {
+        "churned":  7,
+        "totalRevenue":  58530850,
+        "headcount":  477,
+        "retainedClients":  40,
+        "advisoryFees":  14632712,
+        "taxFees":  8779628,
+        "year":  2022,
+        "auditFees":  35118510,
+        "currency":  "ZAR",
+        "profitMargin":  30,
+        "newClients":  27,
+        "totalCosts":  40971595,
+        "operatingProfit":  17559255
+    },
+    {
+        "churned":  6,
+        "totalRevenue":  60314232,
+        "headcount":  119,
+        "retainedClients":  116,
+        "advisoryFees":  15078558,
+        "taxFees":  9047135,
+        "year":  2023,
+        "auditFees":  36188539,
+        "currency":  "ZAR",
+        "profitMargin":  40,
+        "newClients":  18,
+        "totalCosts":  36188539,
+        "operatingProfit":  24125693
+    },
+    {
+        "churned":  1,
+        "totalRevenue":  75277717,
+        "headcount":  431,
+        "retainedClients":  91,
+        "advisoryFees":  18819429,
+        "taxFees":  11291658,
+        "year":  2024,
+        "auditFees":  45166630,
+        "currency":  "ZAR",
+        "profitMargin":  26,
+        "newClients":  9,
+        "totalCosts":  55705511,
+        "operatingProfit":  19572206
+    }
+]

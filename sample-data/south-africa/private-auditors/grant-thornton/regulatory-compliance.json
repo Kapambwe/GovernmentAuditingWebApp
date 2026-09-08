@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "grant-thornton-south-africa",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-05-23",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-07-06",
+    "lastPeerReview":  "2023-11-05",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Grant Thornton South Africa",
+    "country":  "South Africa",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "83%",
+    "auditCommitteeEngagements":  14
+}

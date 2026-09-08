@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 90% of public accounts",
+                          "Recovered KSh106 million through follow-up actions",
+                          "8 matters referred to Anti-Corruption Commission",
+                          "Issued 116 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-04-09",
+    "complianceRate":  "58%",
+    "totalAmountRecovered":  131763955,
+    "auditCoverage":  "75%",
+    "currencySymbol":  "KSh",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  2234240165,
+    "currency":  "KES",
+    "totalAuditsCompleted":  129,
+    "country":  "Kenya",
+    "reportTitle":  "Annual Report of the Office of the Auditor-General - 2024/2025",
+    "totalFindingsIssued":  1325,
+    "auditsByType":  {
+                         "financial":  91,
+                         "performance":  15,
+                         "compliance":  94,
+                         "forensic":  38,
+                         "it":  9
+                     }
+}

@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "moore-africa-zambia",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-01-19",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Zambia",
+    "nextPeerReview":  "2026-04-19",
+    "lastPeerReview":  "2023-10-03",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "Moore Africa Zambia",
+    "country":  "Zambia",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "98%",
+    "auditCommitteeEngagements":  55
+}

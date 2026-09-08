@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "mazars-nigeria",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-01-25",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Nigeria",
+    "nextPeerReview":  "2026-06-03",
+    "lastPeerReview":  "2023-02-24",
+    "inspectionResult":  "Minor Issues",
+    "firmName":  "Mazars Nigeria",
+    "country":  "Nigeria",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "83%",
+    "auditCommitteeEngagements":  42
+}

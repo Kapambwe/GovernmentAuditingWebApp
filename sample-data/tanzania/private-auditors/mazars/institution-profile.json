@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Tanzania",
+    "annualRevenue":  15929723,
+    "website":  "https://www.mazars.com/tanzania",
+    "staffCount":  200,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "TZS",
+    "institutionName":  "Mazars Tanzania",
+    "institutionId":  "mazars-tanzania-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@mazars.tanzania",
+    "headquarters":  "Tanzania Capital",
+    "partners":  15,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "Mazars",
+    "currencySymbol":  "TSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2005,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-74901"
+}

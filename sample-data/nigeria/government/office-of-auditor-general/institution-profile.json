@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.nigeria.gov",
+    "annualBudget":  36914028,
+    "currencySymbol":  "â‚¦",
+    "institutionId":  "OAGF-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1978,
+    "institutionName":  "Office of the Auditor-General for the Federation",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  1119,
+    "currency":  "NGN",
+    "contactEmail":  "info@auditor-general.nigeria.gov",
+    "country":  "Nigeria",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-nigeria",
+                        "twitter":  "@AuditorGeneralNigeria"
+                    },
+    "headquarters":  "Nigeria Capital"
+}

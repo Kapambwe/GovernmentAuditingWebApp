@@ -1,0 +1,27 @@
+﻿{
+    "keyHighlights":  [
+                          "Increased audit coverage to 83% of public accounts",
+                          "Recovered TSh194 million through follow-up actions",
+                          "7 matters referred to Anti-Corruption Commission",
+                          "Issued 174 special audit reports on request"
+                      ],
+    "publishedDate":  "2025-01-27",
+    "complianceRate":  "74%",
+    "totalAmountRecovered":  12536769,
+    "auditCoverage":  "83%",
+    "currencySymbol":  "TSh",
+    "fiscalYear":  "2024/2025",
+    "totalAmountQuestioned":  1975966257,
+    "currency":  "TZS",
+    "totalAuditsCompleted":  393,
+    "country":  "Tanzania",
+    "reportTitle":  "Annual Report of the National Audit Office of Tanzania - 2024/2025",
+    "totalFindingsIssued":  543,
+    "auditsByType":  {
+                         "financial":  79,
+                         "performance":  56,
+                         "compliance":  131,
+                         "forensic":  19,
+                         "it":  11
+                     }
+}

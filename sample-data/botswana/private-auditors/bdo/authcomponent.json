@@ -1,0 +1,29 @@
+﻿{
+    "description":  "Mid-Tier auditing portal for BDO Botswana - 14 permissions",
+    "permissionTier":  "MidTier",
+    "institutionId":  "bdo-botswana",
+    "permissions":  [
+                        "Dashboards.ViewMain",
+                        "Dashboards.ViewReports",
+                        "AuditManagement.ViewRegistry",
+                        "AuditManagement.ReviewQuality",
+                        "AuditManagement.ViewReports",
+                        "AuditManagement.TrackTime",
+                        "StrategicPlanning.ViewAnnualPlan",
+                        "StrategicPlanning.ManageDocuments",
+                        "RealTimeAudit.MonitorFinancials",
+                        "RealTimeAudit.MonitorControls",
+                        "DecisionIntelligence.ViewDashboard",
+                        "DecisionIntelligence.AssessRisk",
+                        "AdvancedFeatures.ViewPerformance",
+                        "AIAssistant.UseAssistant"
+                    ],
+    "componentId":  "bdo-botswana-AUTH-001",
+    "componentName":  "BDO Botswana Audit Portal",
+    "componentType":  "WebPortal",
+    "firmType":  "Mid-Tier",
+    "institutionType":  "Private Auditor",
+    "isActive":  true,
+    "institutionName":  "BDO Botswana",
+    "country":  "Botswana"
+}

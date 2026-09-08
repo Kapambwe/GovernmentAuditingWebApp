@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "ernst-young-south-africa",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-05-03",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Pending",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-09-09",
+    "lastPeerReview":  "2023-06-06",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Ernst \u0026 Young South Africa",
+    "country":  "South Africa",
+    "finesIssued":  0,
+    "cpd_hoursCompliance":  "91%",
+    "auditCommitteeEngagements":  44
+}

@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  72988417,
+    "website":  "https://www.grant-thornton.com/kenya",
+    "staffCount":  462,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "Grant Thornton Kenya",
+    "institutionId":  "grant-thornton-kenya-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@grant-thornton.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  6,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  6,
+    "parentFirm":  "Grant Thornton",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2003,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-11495"
+}

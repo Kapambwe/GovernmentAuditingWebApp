@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-uganda",
+    "qualityControlRating":  "Needs Improvement",
+    "lastInspectionDate":  "2024-01-15",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  0,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed with Observations",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Uganda",
+    "nextPeerReview":  "2026-08-07",
+    "lastPeerReview":  "2023-11-25",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Deloitte Uganda",
+    "country":  "Uganda",
+    "finesIssued":  0,
+    "cpd_hoursCompliance":  "90%",
+    "auditCommitteeEngagements":  23
+}

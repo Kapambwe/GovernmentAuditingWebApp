@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-zambia",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-01-06",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Zambia",
+    "nextPeerReview":  "2026-01-26",
+    "lastPeerReview":  "2023-07-04",
+    "inspectionResult":  "Satisfactory",
+    "firmName":  "Deloitte Zambia",
+    "country":  "Zambia",
+    "finesIssued":  1,
+    "cpd_hoursCompliance":  "80%",
+    "auditCommitteeEngagements":  40
+}

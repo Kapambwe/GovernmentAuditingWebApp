@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Ghana",
+    "annualRevenue":  56006759,
+    "website":  "https://www.pricewaterhousecoopers.com/ghana",
+    "staffCount":  303,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "GHS",
+    "institutionName":  "PricewaterhouseCoopers Ghana",
+    "institutionId":  "pricewaterhousecoopers-ghana-001",
+    "firmType":  "Big Four",
+    "contactEmail":  "info@pricewaterhousecoopers.ghana",
+    "headquarters":  "Ghana Capital",
+    "partners":  28,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  2,
+    "parentFirm":  "PricewaterhouseCoopers",
+    "currencySymbol":  "GHâ‚µ",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  1999,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-83264"
+}

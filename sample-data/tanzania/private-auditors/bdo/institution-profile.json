@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Tanzania",
+    "annualRevenue":  19594997,
+    "website":  "https://www.bdo.com/tanzania",
+    "staffCount":  287,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "TZS",
+    "institutionName":  "BDO Tanzania",
+    "institutionId":  "bdo-tanzania-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@bdo.tanzania",
+    "headquarters":  "Tanzania Capital",
+    "partners":  24,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  5,
+    "parentFirm":  "BDO",
+    "currencySymbol":  "TSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2006,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-76466"
+}

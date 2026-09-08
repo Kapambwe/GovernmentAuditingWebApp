@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.south-africa.gov",
+    "annualBudget":  47188324,
+    "currencySymbol":  "R",
+    "institutionId":  "AGSA-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1960,
+    "institutionName":  "Auditor General South Africa",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  1056,
+    "currency":  "ZAR",
+    "contactEmail":  "info@auditor-general.south-africa.gov",
+    "country":  "South Africa",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-south-africa",
+                        "twitter":  "@AuditorGeneralSouthAfrica"
+                    },
+    "headquarters":  "South Africa Capital"
+}

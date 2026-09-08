@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Zambia",
+    "annualRevenue":  11732624,
+    "website":  "https://www.moore-africa.com/zambia",
+    "staffCount":  370,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "ZMW",
+    "institutionName":  "Moore Africa Zambia",
+    "institutionId":  "moore-africa-zambia-001",
+    "firmType":  "Regional",
+    "contactEmail":  "info@moore-africa.zambia",
+    "headquarters":  "Zambia Capital",
+    "partners":  20,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "Moore Africa",
+    "currencySymbol":  "K",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2011,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-43288"
+}

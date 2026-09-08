@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.uganda.gov",
+    "annualBudget":  58521809,
+    "currencySymbol":  "USh",
+    "institutionId":  "OAG-UG-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1979,
+    "institutionName":  "Office of the Auditor General",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  1104,
+    "currency":  "UGX",
+    "contactEmail":  "info@auditor-general.uganda.gov",
+    "country":  "Uganda",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-uganda",
+                        "twitter":  "@AuditorGeneralUganda"
+                    },
+    "headquarters":  "Uganda Capital"
+}

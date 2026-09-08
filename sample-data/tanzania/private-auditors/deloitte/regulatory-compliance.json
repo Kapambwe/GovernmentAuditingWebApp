@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-tanzania",
+    "qualityControlRating":  "Unsatisfactory",
+    "lastInspectionDate":  "2024-02-20",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Passed",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of Tanzania",
+    "nextPeerReview":  "2026-05-17",
+    "lastPeerReview":  "2023-04-04",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Deloitte Tanzania",
+    "country":  "Tanzania",
+    "finesIssued":  0,
+    "cpd_hoursCompliance":  "85%",
+    "auditCommitteeEngagements":  57
+}

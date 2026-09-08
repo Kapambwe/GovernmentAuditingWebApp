@@ -1,0 +1,62 @@
+﻿[
+    {
+        "churned":  4,
+        "totalRevenue":  46475697,
+        "headcount":  306,
+        "retainedClients":  47,
+        "advisoryFees":  11618924,
+        "taxFees":  6971355,
+        "year":  2021,
+        "auditFees":  27885418,
+        "currency":  "TZS",
+        "profitMargin":  40,
+        "newClients":  13,
+        "totalCosts":  27885418,
+        "operatingProfit":  18590279
+    },
+    {
+        "churned":  1,
+        "totalRevenue":  71932221,
+        "headcount":  82,
+        "retainedClients":  73,
+        "advisoryFees":  17983055,
+        "taxFees":  10789833,
+        "year":  2022,
+        "auditFees":  43159333,
+        "currency":  "TZS",
+        "profitMargin":  45,
+        "newClients":  24,
+        "totalCosts":  39562722,
+        "operatingProfit":  32369499
+    },
+    {
+        "churned":  2,
+        "totalRevenue":  10290872,
+        "headcount":  322,
+        "retainedClients":  42,
+        "advisoryFees":  2572718,
+        "taxFees":  1543631,
+        "year":  2023,
+        "auditFees":  6174523,
+        "currency":  "TZS",
+        "profitMargin":  26,
+        "newClients":  7,
+        "totalCosts":  7615245,
+        "operatingProfit":  2675627
+    },
+    {
+        "churned":  2,
+        "totalRevenue":  53810506,
+        "headcount":  399,
+        "retainedClients":  73,
+        "advisoryFees":  13452626,
+        "taxFees":  8071576,
+        "year":  2024,
+        "auditFees":  32286304,
+        "currency":  "TZS",
+        "profitMargin":  26,
+        "newClients":  11,
+        "totalCosts":  39819774,
+        "operatingProfit":  13990732
+    }
+]

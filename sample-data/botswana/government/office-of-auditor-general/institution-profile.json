@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.botswana.gov",
+    "annualBudget":  28171660,
+    "currencySymbol":  "P",
+    "institutionId":  "OAG-BW-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1964,
+    "institutionName":  "Office of the Auditor General",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  781,
+    "currency":  "BWP",
+    "contactEmail":  "info@auditor-general.botswana.gov",
+    "country":  "Botswana",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-botswana",
+                        "twitter":  "@AuditorGeneralBotswana"
+                    },
+    "headquarters":  "Botswana Capital"
+}

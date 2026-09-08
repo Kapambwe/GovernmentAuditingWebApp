@@ -1,0 +1,25 @@
+﻿{
+    "website":  "https://www.auditorgeneral.tanzania.gov",
+    "annualBudget":  15055275,
+    "currencySymbol":  "TSh",
+    "institutionId":  "NAOT-001",
+    "mandate":  "Constitutional mandate to audit all public accounts and report to the National Assembly",
+    "legalFramework":  "Public Audit Act",
+    "institutionType":  "Government",
+    "established":  1968,
+    "institutionName":  "National Audit Office of Tanzania",
+    "auditStandards":  [
+                           "ISSAI",
+                           "INTOSAI",
+                           "IPSAS"
+                       ],
+    "staffStrength":  521,
+    "currency":  "TZS",
+    "contactEmail":  "info@auditor-general.tanzania.gov",
+    "country":  "Tanzania",
+    "socialMedia":  {
+                        "linkedin":  "auditor-general-tanzania",
+                        "twitter":  "@AuditorGeneralTanzania"
+                    },
+    "headquarters":  "Tanzania Capital"
+}

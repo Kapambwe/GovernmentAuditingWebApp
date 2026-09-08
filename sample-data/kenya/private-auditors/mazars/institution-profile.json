@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  75358372,
+    "website":  "https://www.mazars.com/kenya",
+    "staffCount":  406,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "Mazars Kenya",
+    "institutionId":  "mazars-kenya-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@mazars.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  16,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  7,
+    "parentFirm":  "Mazars",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2008,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-38044"
+}

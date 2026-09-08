@@ -1,0 +1,20 @@
+﻿{
+    "firmId":  "deloitte-south-africa",
+    "qualityControlRating":  "Satisfactory",
+    "lastInspectionDate":  "2024-04-15",
+    "independenceBreaches":  0,
+    "disciplinaryActions":  1,
+    "licenseExpiry":  "2026-12-31",
+    "regulatoryFilingsCurrent":  true,
+    "peerReviewStatus":  "Scheduled",
+    "licenseStatus":  "Active",
+    "regulatoryBody":  "Institute of Chartered Accountants of South Africa",
+    "nextPeerReview":  "2026-02-16",
+    "lastPeerReview":  "2023-07-09",
+    "inspectionResult":  "Major Issues",
+    "firmName":  "Deloitte South Africa",
+    "country":  "South Africa",
+    "finesIssued":  2,
+    "cpd_hoursCompliance":  "99%",
+    "auditCommitteeEngagements":  46
+}

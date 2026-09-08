@@ -1,0 +1,44 @@
+﻿{
+    "country":  "Kenya",
+    "annualRevenue":  77791707,
+    "website":  "https://www.bdo.com/kenya",
+    "staffCount":  411,
+    "regulatoryBody":  "Institute of Chartered Accountants",
+    "currency":  "KES",
+    "institutionName":  "BDO Kenya",
+    "institutionId":  "bdo-kenya-001",
+    "firmType":  "Mid-Tier",
+    "contactEmail":  "info@bdo.kenya",
+    "headquarters":  "Kenya Capital",
+    "partners":  17,
+    "auditStandards":  [
+                           "IFRS",
+                           "ISA",
+                           "IPSAS",
+                           "King IV"
+                       ],
+    "certifications":  [
+                           "ICPAZ",
+                           "ACCA",
+                           "CPA",
+                           "ICPAK",
+                           "ICAN",
+                           "ICAG",
+                           "ICPAU"
+                       ],
+    "officeLocations":  4,
+    "parentFirm":  "BDO",
+    "currencySymbol":  "KSh",
+    "serviceLines":  [
+                         "External Audit",
+                         "Internal Audit",
+                         "Tax Advisory",
+                         "Risk Advisory",
+                         "Forensic",
+                         "IT Audit",
+                         "Sustainability Reporting"
+                     ],
+    "founded":  2006,
+    "institutionType":  "Private Auditor",
+    "licenseNumber":  "AUD-76122"
+}
