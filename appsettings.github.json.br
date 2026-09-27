@@ -1,0 +1,6 @@
+&€{
+  "UseMockServices": true,
+  "EnableTestLogin": true,
+  "ApiBaseUrl": ""
+}
+
